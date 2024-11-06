@@ -1,1 +1,1 @@
-Feeling too lazy, will add the Readme later :) 
+Circuit Diagram: 
